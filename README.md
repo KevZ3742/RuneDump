@@ -13,6 +13,10 @@ Users export Runes from the League of Legends Client to RuneDump for fast import
 # The Solution
 RuneDump is an unbloated piece of software that is ran alongside the League Client. It saves the runes you create which can be reimported whenever you feel like it. This allows you to have more time in deciding the champion and build you want to play during champ select. The software is also active in champ select so you do not have to fiddle around with poopoo client before your game.
 
+# System Requirements
+- OS: MacOS X
+- Software: League of Legends
+
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 

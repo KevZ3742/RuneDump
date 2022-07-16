@@ -10,7 +10,7 @@ Users export Runes from the League of Legends Client to RuneDump for fast import
 - Classic League of Legends rune assistors focus on meta builds and lack the creative, troll, and for-fun builds that you want to play on a whim.
 - Classic League of Legends rune assistors seemingly import runes at random times and can really screw you over before a game.
 
-# Solution
+# The Solution
 RuneDump is an unbloated piece of software that is ran alongside the League Client. It saves the runes you create which can be reimported whenever you feel like it. This allows you to have more time in deciding the champion and build you want to play during champ select. The software is also active in champ select so you do not have to fiddle around with poopoo client before your game.
 
 # License

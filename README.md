@@ -19,16 +19,6 @@ RuneDump is an unbloated piece of software that is ran alongside the League Clie
 - Language: Python
 
 # License
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][CC BY-NC-SA 4.0].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-lightgrey
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 

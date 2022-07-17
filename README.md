@@ -22,7 +22,7 @@ RuneDump is an unbloated piece of software that is ran alongside the League Clie
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][CC BY-NC-SA 4.0].
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][CC BY-NC-SA].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 

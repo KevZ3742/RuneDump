@@ -2,6 +2,9 @@
 The goal of RuneDump is to act as an personal, yet efficient League of Legends Rune Manager.
 Users export Runes from the League of Legends Client to RuneDump for fast importing in the future.
 
+# Download
+MacOS: 
+
 # The Problems
 - Many players enjoy trying new characters, testing new builds, and maining (hopefully not) more than 3 champions.
 - League of Legends only provides players with three free rune pages as default. 

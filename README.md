@@ -3,7 +3,7 @@ The goal of RuneDump is to act as an personal, yet efficient League of Legends R
 Users export Runes from the League of Legends Client to RuneDump for fast importing in the future.
 
 # Download
-MacOS: 
+MacOS: https://github.com/KevZ3742/Downloads/RuneDump-MacOS.zip
 
 # The Problems
 - Many players enjoy trying new characters, testing new builds, and maining (hopefully not) more than 3 champions.

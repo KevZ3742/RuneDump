@@ -1,3 +1,5 @@
+probably depricated now 💀
+
 # RuneDump
 The goal of RuneDump is to act as an personal, yet efficient League of Legends Rune Manager.
 Users export Runes from the League of Legends Client to RuneDump for fast importing in the future.
